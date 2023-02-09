@@ -12,6 +12,7 @@ https://joaqsala.github.io/1-weekly-challenge/
 
 The Horiseon website provides potential clients with information towards improved marketability through search engine optimization, online reputation management, and social media marketing.
 
+This webpage has been updated to work with screen readers.
 
 ## Credits
 
